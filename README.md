@@ -22,7 +22,8 @@ Now inside the html folder create the necessary html files that you've included 
 Now push the folder and commit the changes in the github
 ## Code:
 ### Map.html Code : 
-    ```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>imagemaps demo</title>
@@ -45,10 +46,12 @@ Now push the folder and commit the changes in the github
 
     </map>
 </body>
-</html>```
+</html>
+```
 
 ### Rekha.html code:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,10 +107,12 @@ Now push the folder and commit the changes in the github
     </p>
     
 </body>
-</html>```
+</html>
+```
 
 ### Asma.html Code:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -155,10 +160,12 @@ Now push the folder and commit the changes in the github
     </p>
     
 </body>
-</html>```
+</html>
+```
 
 ### Avai.html Code:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Avai Nadunillai School</title>
@@ -197,10 +204,12 @@ As a symbol of continuity and tradition, the school holds a special place in the
     </p>
     
 </body>
-</html>```
+</html>
+```
 
 ### Candy.html Code:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -243,10 +252,12 @@ As a symbol of continuity and tradition, the school holds a special place in the
     </p>
     
 </body>
-</html>```
+</html>
+```
 
 ### Nutrition.html Code:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -291,7 +302,8 @@ As a symbol of continuity and tradition, the school holds a special place in the
     </p>
     
 </body>
-</html>```
+</html>
+```
 
 ## Output:
 
