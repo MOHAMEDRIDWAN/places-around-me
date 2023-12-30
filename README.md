@@ -308,15 +308,10 @@ As a symbol of continuity and tradition, the school holds a special place in the
 ## Output:
 ### Map.html output:
 ![map_out](https://github.com/arbasil05/places-around-me/assets/144218037/58f7e5f4-a77b-4ae6-9add-0fb2a3bfa04e)
-### Rekha.html output:
-![rekha_out](https://github.com/arbasil05/places-around-me/assets/144218037/f27206aa-d45c-4852-a7d9-f0e34a98eac9)
+\
 ### Candy.html output:
 ![candy_out](https://github.com/arbasil05/places-around-me/assets/144218037/33074cd5-c0aa-4ca1-879d-0aad96a577fb)
-### Herbal.html output:
-![herbal_out](https://github.com/arbasil05/places-around-me/assets/144218037/cc02d9b7-d442-4bdc-bf31-f67ca766a2c8)
-### avai.html output:
-![avai_out](https://github.com/arbasil05/places-around-me/assets/144218037/7a17b9b6-8c96-4daa-a46e-8b811b488197)
-### asma.html output:
+
 ![asma_out](https://github.com/arbasil05/places-around-me/assets/144218037/887354a7-07b8-4d5f-a7bc-739def9bd454)
 
 ## Result:
